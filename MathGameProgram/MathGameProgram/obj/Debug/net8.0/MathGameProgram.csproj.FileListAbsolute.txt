@@ -1,0 +1,14 @@
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\bin\Debug\net8.0\MathGameProgram.exe
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\bin\Debug\net8.0\MathGameProgram.deps.json
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\bin\Debug\net8.0\MathGameProgram.runtimeconfig.json
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\bin\Debug\net8.0\MathGameProgram.dll
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\bin\Debug\net8.0\MathGameProgram.pdb
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\obj\Debug\net8.0\MathGameProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\obj\Debug\net8.0\MathGameProgram.AssemblyInfoInputs.cache
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\obj\Debug\net8.0\MathGameProgram.AssemblyInfo.cs
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\obj\Debug\net8.0\MathGameProgram.csproj.CoreCompileInputs.cache
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\obj\Debug\net8.0\MathGameProgram.dll
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\obj\Debug\net8.0\refint\MathGameProgram.dll
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\obj\Debug\net8.0\MathGameProgram.pdb
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\obj\Debug\net8.0\MathGameProgram.genruntimeconfig.cache
+C:\Users\jalen\OneDrive\Desktop\C#Practice\MathGameProject\MathGameProgram\MathGameProgram\obj\Debug\net8.0\ref\MathGameProgram.dll
