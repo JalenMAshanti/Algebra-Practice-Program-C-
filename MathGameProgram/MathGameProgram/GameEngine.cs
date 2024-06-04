@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MathGameProgram.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,8 +26,9 @@ namespace MathGameProgram
 
 
                 Console.WriteLine($"{firstNumber} + {secondNumber}");
-                var result = Console.ReadLine();
+                var result = Helpers.ValidateResult();
 
+           
                 if (int.Parse(result) == firstNumber + secondNumber)
                 {
                     Console.WriteLine("Your answer is correct! Type any key for the next question");
@@ -47,7 +49,7 @@ namespace MathGameProgram
             Console.WriteLine($"your score was {score}/5 \nPress any key to go back to the main menu.");
             Console.ReadLine();
 
-            Helpers.AddToHistory(score, "Addition");
+            Helpers.AddToHistory(score, GameType.Addition);
         }
 
          internal void DivisionGame()
@@ -65,7 +67,7 @@ namespace MathGameProgram
 
                 Console.WriteLine($"{firstNumber} / {secondNumber}");
 
-                var result = Console.ReadLine();
+                var result = Helpers.ValidateResult();
 
                 if (int.Parse(result) == firstNumber / secondNumber)
                 {
@@ -84,7 +86,7 @@ namespace MathGameProgram
 
             Console.WriteLine($"your score was {score}/5 \nPress any key to go back to the main menu.");
             Console.ReadLine();
-            Helpers.AddToHistory(score, "Division");
+            Helpers.AddToHistory(score, GameType.Division);
         }
 
         internal void MultiplicationGame()
@@ -104,7 +106,7 @@ namespace MathGameProgram
 
 
                 Console.WriteLine($"{firstNumber} x {secondNumber}");
-                var result = Console.ReadLine();
+                var result = Helpers.ValidateResult();
 
                 if (int.Parse(result) == firstNumber * secondNumber)
                 {
@@ -122,7 +124,7 @@ namespace MathGameProgram
 
             Console.WriteLine($"your score was {score}/5 \nPress any key to go back to the main menu.");
             Console.ReadLine();
-            Helpers.AddToHistory(score, "Multiplication");
+            Helpers.AddToHistory(score, GameType.Multiplication);
 
         }
 
@@ -143,7 +145,7 @@ namespace MathGameProgram
 
 
                 Console.WriteLine($"{firstNumber} - {secondNumber}");
-                var result = Console.ReadLine();
+                var result = Helpers.ValidateResult();
 
                 if (int.Parse(result) == firstNumber - secondNumber)
                 {
@@ -161,7 +163,7 @@ namespace MathGameProgram
 
             Console.WriteLine($"your score was {score}/5 \nPress any key to go back to the main menu.");
             Console.ReadLine();
-            Helpers.AddToHistory(score, "Subtraction");
+            Helpers.AddToHistory(score, GameType.Subtraction);
         }
     }
 }

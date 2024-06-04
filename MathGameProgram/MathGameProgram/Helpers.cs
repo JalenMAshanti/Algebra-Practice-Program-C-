@@ -9,9 +9,9 @@ namespace MathGameProgram
 {
     internal class Helpers
     {
-        internal static List<Game> games = new List<Game>();
+        internal static List<Game> games = new List<Game> ();
 
-        internal static void AddToHistory(int gameScore, string gameType)
+        internal static void AddToHistory(int gameScore, GameType gameType)
         {
             games.Add(new Game 
             { 
@@ -48,6 +48,7 @@ namespace MathGameProgram
 
         internal static void PrintGames()
         {
+           
 
             Console.Clear();
             Console.WriteLine("Game History");
@@ -72,6 +73,21 @@ namespace MathGameProgram
             Console.WriteLine("Press Any Key to go back to the main menu");
             Console.ReadLine();
 
+        }
+
+        internal static string ValidateResult() 
+        {
+            string result = Console.ReadLine();
+
+            while (string.IsNullOrEmpty(result) || !Int32.TryParse(result, out _))
+            {
+                Console.WriteLine("your answer needs to be an integer. Try again.");
+                result = Console.ReadLine();
+
+                
+            }
+            
+            return result;
         }
     }
 }

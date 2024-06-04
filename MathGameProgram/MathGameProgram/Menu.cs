@@ -12,10 +12,11 @@ namespace MathGameProgram
         internal void ShowMenu(string name, DateTime date)
         {
 
-            Console.WriteLine("__________________________________________________");
+            Console.Clear();
             Console.WriteLine($"Hello {name.ToUpper()}. Its {date.DayOfWeek}. This is your math game. That's a great that you're working on improving yourself!");
             Console.WriteLine("Press any key to continue.");
             Console.ReadLine();
+            Console.WriteLine("\n");
             
 
             var isGameOn = true;

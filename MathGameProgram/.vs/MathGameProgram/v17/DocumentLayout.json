@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jalen\\OneDrive\\Desktop\\C#Practice\\MathGameProject\\MathGameProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|c:\\users\\jalen\\onedrive\\desktop\\c#practice\\mathgameproject\\mathgameprogram\\mathgameprogram\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|solutionrelative:mathgameprogram\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|c:\\users\\jalen\\onedrive\\desktop\\c#practice\\mathgameproject\\mathgameprogram\\mathgameprogram\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|solutionrelative:mathgameprogram\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|c:\\users\\jalen\\onedrive\\desktop\\c#practice\\mathgameproject\\mathgameprogram\\mathgameprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|solutionrelative:mathgameprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|c:\\users\\jalen\\onedrive\\desktop\\c#practice\\mathgameproject\\mathgameprogram\\mathgameprogram\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|solutionrelative:mathgameprogram\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|c:\\users\\jalen\\onedrive\\desktop\\c#practice\\mathgameproject\\mathgameprogram\\mathgameprogram\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|solutionrelative:mathgameprogram\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|c:\\users\\jalen\\onedrive\\desktop\\c#practice\\mathgameproject\\mathgameprogram\\mathgameprogram\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|solutionrelative:mathgameprogram\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|c:\\users\\jalen\\onedrive\\desktop\\c#practice\\mathgameproject\\mathgameprogram\\mathgameprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|solutionrelative:mathgameprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|c:\\users\\jalen\\onedrive\\desktop\\c#practice\\mathgameproject\\mathgameprogram\\mathgameprogram\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95A4970-A65F-445A-B866-BF5934630820}|MathGameProgram\\MathGameProgram.csproj|solutionrelative:mathgameprogram\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "MathGameProgram\\Models\\Game.cs",
               "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\C#Practice\\MathGameProject\\MathGameProgram\\MathGameProgram\\Models\\Game.cs",
               "RelativeToolTip": "MathGameProgram\\Models\\Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T20:54:06.711Z",
               "EditorCaption": ""
@@ -61,53 +61,53 @@
               "RelativeDocumentMoniker": "MathGameProgram\\Name.cs",
               "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\C#Practice\\MathGameProject\\MathGameProgram\\MathGameProgram\\Name.cs",
               "RelativeToolTip": "MathGameProgram\\Name.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T20:33:12.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Helpers.cs",
               "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\C#Practice\\MathGameProject\\MathGameProgram\\MathGameProgram\\Helpers.cs",
               "RelativeDocumentMoniker": "MathGameProgram\\Helpers.cs",
               "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\C#Practice\\MathGameProject\\MathGameProgram\\MathGameProgram\\Helpers.cs",
               "RelativeToolTip": "MathGameProgram\\Helpers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T19:38:12.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameEngine.cs",
               "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\C#Practice\\MathGameProject\\MathGameProgram\\MathGameProgram\\GameEngine.cs",
               "RelativeDocumentMoniker": "MathGameProgram\\GameEngine.cs",
               "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\C#Practice\\MathGameProject\\MathGameProgram\\MathGameProgram\\GameEngine.cs",
               "RelativeToolTip": "MathGameProgram\\GameEngine.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAKcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T19:32:49.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\C#Practice\\MathGameProject\\MathGameProgram\\MathGameProgram\\Menu.cs",
               "RelativeDocumentMoniker": "MathGameProgram\\Menu.cs",
               "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\C#Practice\\MathGameProject\\MathGameProgram\\MathGameProgram\\Menu.cs",
               "RelativeToolTip": "MathGameProgram\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T19:24:51.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\C#Practice\\MathGameProject\\MathGameProgram\\MathGameProgram\\Program.cs",
               "RelativeDocumentMoniker": "MathGameProgram\\Program.cs",
